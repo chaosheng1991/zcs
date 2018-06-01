@@ -1,0 +1,4 @@
+jdbcUrl = jdbc:mysql://localhost/future?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = root
+password =zhao19910716
+devMode = true
